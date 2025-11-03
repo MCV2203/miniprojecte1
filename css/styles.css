@@ -1,15 +1,16 @@
 .indice {
     display: flex;
-    gap: 30px;
+    gap: 50px;
 }
 
 .container {
-    border-right: 1px solid black;
-    padding: 10px;
+    border-right: 1px solid rgb(110, 110, 110);
+    padding: 50px;
     line-height: 40px;
 }
 
 body {
-    margin: 20px;
-    font-family: 'Times New Roman', Times, serif    
+    margin: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: ;
 }
