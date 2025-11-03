@@ -1,6 +1,6 @@
 .indice {
     display: flex;
-    gap: 50px;
+    gap: 40px;
 }
 
 .container {
@@ -9,7 +9,48 @@
     line-height: 40px;
 }
 
+.container2 {
+    border: 1px solid rgb(110, 110, 110);
+    padding: 10px;
+    line-height: 40px;
+    background-color: rgb(245, 245, 245);
+}
+
+.container3 {
+    border: 1px solid rgb(110, 110, 110);
+    padding: 10px;
+    background-color: rgb(245, 245, 245);
+    width: 1165px;
+    margin-top: 20px;
+}
+
+.container4 {
+    border: 1px solid rgb(110, 110, 110);
+    padding: 10px;
+    background-color: rgb(245, 245, 245);
+    width: 555px;
+    margin-top: 20px;
+}
+
+.container5 {
+    border: 1px solid rgb(110, 110, 110);
+    padding: 10px;
+    background-color: rgb(245, 245, 245);
+    width: 680px;
+    margin-top: 20px;
+}
+
 body {
-    margin: 40px;
+    margin-left: 10px;
+    margin-right: 70px;
+    margin-top: 50px;
     font-family: 'Times New Roman', Times, serif;
+}
+
+body h2 {
+    border-bottom: 1px solid rgb(110, 110, 110);
+}
+
+body h1 {
+    border-bottom: 1px solid rgb(110, 110, 110);
 }
